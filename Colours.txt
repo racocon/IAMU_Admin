@@ -1,0 +1,20 @@
+Dark Orange
+#f4810b
+
+Main Orange
+#ffa60f
+
+Button Initial
+#ffc206
+
+Button Hover/Click
+#ffcb2b
+
+Light Yellow
+#ffff99
+
+Muted Text
+#fbe39b
+
+Blue Accent
+#6ec4ff
